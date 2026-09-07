@@ -198,13 +198,13 @@ This repository is structured as an **internship documentation and deliverables 
 
 # 📑 Internship Deliverables
 
-| Document | Description | Status |
+| Document | Description | Access / Links |
 |---|---|---|
-| 📜 **Offer Letter** | Official Thiranex Internship Selection Letter (`THX-AUG1726-265`) | Available in `Offer_Letter/` |
-| 🏆 **Completion Certificate** | Official Thiranex Internship Certificate | Pending (Will be updated upon issuance) |
-| 📘 **Internship Report** | Comprehensive academic report on C++ projects and learnings | Available in `Documentation/` |
-| 📊 **Internship Presentation** | Summary presentation slides for internship evaluation | Available in `Documentation/` |
-| 📖 **README.md** | Complete repository documentation and project directory | Available |
+| 📜 **Offer Letter** | Official Thiranex Internship Selection Letter (`THX-AUG1726-265`) | [📄 View PDF](Offer_Letter/Thiranex_OfferLetter_Shaurya_Shivhare_THX-AUG1726-265.pdf) \| [Directory](Offer_Letter/) |
+| 🏆 **Completion Certificate** | Official Thiranex Internship Certificate | [Details](Certificates/README.md) *(Pending issuance)* |
+| 📘 **Internship Report** | Comprehensive academic report on C++ projects & learnings | [📄 View PDF](Documentation/Internship_Report_Shaurya_Shivhare.pdf) \| [📖 Read Online](Documentation/Internship_Report_Shaurya_Shivhare.md) |
+| 🔗 **Project Links** | Complete list of all 4 repository links and tech stacks | [📂 Project Links](Project_Repositories/Project_links.md) |
+| 📖 **README.md** | Central portfolio overview & internship documentation | [Overview](README.md) |
 
 ---
 

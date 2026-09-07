@@ -16,4 +16,4 @@
 | **Issuing Organization** | Thiranex (www.thiranex.in) |
 | **Verification** | Thiranex Verification Cell |
 
-> *Please place your `Thiranex_OfferLetter_Shaurya_Shivhare_THX-AUG1726-265.pdf` in this directory for academic records.*
+> 📄 **Official PDF Document:** [Thiranex_OfferLetter_Shaurya_Shivhare_THX-AUG1726-265.pdf](Thiranex_OfferLetter_Shaurya_Shivhare_THX-AUG1726-265.pdf)
